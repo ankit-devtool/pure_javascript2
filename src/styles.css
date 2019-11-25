@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+.show {
+  background-color: red;
+  display: table;
+  height: 300px;
+}
+.show p {
+  display: table-cell;
+  vertical-align: middle;
+}
